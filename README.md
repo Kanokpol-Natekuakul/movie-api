@@ -10,4 +10,6 @@
 - App.js (main body)
 - components/MovieList.jsx (Show Movie)
 - pages/Home.jsx (home)
+
+
 This structure allows the backend and frontend to be clearly separated, with support for future 🚀 feature additions.
